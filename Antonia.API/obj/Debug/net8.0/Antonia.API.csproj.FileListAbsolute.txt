@@ -1,0 +1,7 @@
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.csproj.AssemblyReference.cache
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.AssemblyInfoInputs.cache
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.AssemblyInfo.cs
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.csproj.CoreCompileInputs.cache
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Trasti\Desktop\TFG\Backend_Antonia\Antonia.API\obj\Debug\net8.0\Antonia.API.MvcApplicationPartsAssemblyInfo.cache

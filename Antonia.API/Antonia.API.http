@@ -1,0 +1,6 @@
+@Antonia.API_HostAddress = http://localhost:5108
+
+GET {{Antonia.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

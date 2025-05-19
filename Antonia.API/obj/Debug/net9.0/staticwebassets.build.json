@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cAybiosOOxRkFp2egajnHcz9iWxQCtCDL0ocrZDpRfI=",
+  "Source": "Antonia.API",
+  "BasePath": "_content/Antonia.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
